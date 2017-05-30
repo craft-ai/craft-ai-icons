@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 22"><defs><style>.cls-1{fill:#fff;}</style></defs><title>Fichier 1</title><g id="Calque_2" data-name="Calque 2"><g id="Calque_1-2" data-name="Calque 1"><path d="M24,11V3H10L7.93,0H0V17H18A6,6,0,0,1,24,11Z"/><circle cx="24" cy="17" r="5"/><polygon class="cls-1" points="27 16 25 16 25 14 23 14 23 16 21 16 21 18 23 18 23 20 25 20 25 18 27 18 27 16"/></g></g></svg>
+<svg id="48e62583-f01c-4e9b-a5f2-0655e625dbe0" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .\37 3b17ab6-78c3-4e65-b5c2-82618626e88a {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>new-folder</title>
+  <path d="M26,16V8h-14L9,5H1V22H19.73A6.11,6.11,0,0,1,26,16Z"/>
+  <g>
+    <circle cx="26" cy="22.01" r="5.01"/>
+    <polygon class="73b17ab6-78c3-4e65-b5c2-82618626e88a" points="29 21.01 27 21.01 27 19 24.99 19 24.99 21.01 22.99 21.01 22.99 23.01 24.99 23.01 24.99 25.02 27 25.02 27 23.01 29 23.01 29 21.01"/>
+  </g>
+</svg>
