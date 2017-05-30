@@ -1,0 +1,21 @@
+{
+  "name": "craft-ai-icons",
+  "ascent": 448,
+  "descent": 64,
+  "glyphs": {
+    
+    "craft-ai-darth-stanley": "\uf100",
+    
+    "craft-ai-folder": "\uf101",
+    
+    "craft-ai-new-folder": "\uf102",
+    
+    "craft-ai-sandbox": "\uf103",
+    
+    "craft-ai-stanley": "\uf104",
+    
+    "craft-ai-tree": "\uf105",
+    
+    "end": null
+  }
+}

@@ -1,0 +1,62 @@
+//
+//  craft ai icon font by craft ai - contact@craft.ai
+//  Font available under SIL OFL 1.1
+//  Copyright (c) 2016 craft ai (contact@craft.ai)
+//
+
+$craft-ai-icons-font-path: "./fonts" !default;
+
+@font-face {
+  font-family: "craft-ai-icons";
+  src: url("#{$craft-ai-icons-font-path}/craft-ai-icons.eot");
+  src: url("#{$craft-ai-icons-font-path}/craft-ai-icons.eot?#iefix") format("embedded-opentype"),
+       url("#{$craft-ai-icons-font-path}/craft-ai-icons.woff") format("woff"),
+       url("#{$craft-ai-icons-font-path}/craft-ai-icons.ttf") format("truetype"),
+       url("#{$craft-ai-icons-font-path}/craft-ai-icons.svg#craft-ai-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "craft-ai-icons";
+    src: url("#{$craft-ai-icons-font-path}/craft-ai-icons.svg#craft-ai-icons") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.craft-ai-darth-stanley:before,
+.craft-ai-folder:before,
+.craft-ai-new-folder:before,
+.craft-ai-sandbox:before,
+.craft-ai-stanley:before,
+.craft-ai-tree:before {
+  display: inline-block;
+  font-family: "craft-ai-icons";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.craft-ai-darth-stanley:before { content: "\f100"; }
+.craft-ai-folder:before { content: "\f101"; }
+.craft-ai-new-folder:before { content: "\f102"; }
+.craft-ai-sandbox:before { content: "\f103"; }
+.craft-ai-stanley:before { content: "\f104"; }
+.craft-ai-tree:before { content: "\f105"; }
+
+$font-craft-ai-icons-darth-stanley: "\f100";
+$font-craft-ai-icons-folder: "\f101";
+$font-craft-ai-icons-new-folder: "\f102";
+$font-craft-ai-icons-sandbox: "\f103";
+$font-craft-ai-icons-stanley: "\f104";
+$font-craft-ai-icons-tree: "\f105";
